@@ -16,4 +16,4 @@ convallis, in ullamcorper nulla euismod.
 
 ###BACK TO GITHUB REPO
 
-https://github.com/ezWebDevTools/ezMarkdownToMarkup
+[https://github.com/ezWebDevTools/ezMarkdownToMarkup](https://github.com/ezWebDevTools/ezMarkdownToMarkup)
